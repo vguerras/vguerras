@@ -1,5 +1,5 @@
 ## ¡Hola! Soy Vanessa 👋
-Soy una desarrolladora en ciernes con una pasión por aprender y crear soluciones innovadoras. Actualmente, estoy sumergiéndome en el mundo del desarrollo web y la programación, y me emociona compartir mi viaje y proyectos en GitHub.
+Soy una desarrolladora en chile con una pasión por aprender y crear soluciones innovadoras. Actualmente, estoy sumergiéndome en el mundo del desarrollo web y la programación, y me emociona compartir mi viaje y proyectos en GitHub.
 
 ### Sobre Mí
 - 🎓 Estoy aprendiendo HTML, CSS, JavaScript y Python.
