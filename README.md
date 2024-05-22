@@ -1,16 +1,15 @@
-## Hi there 👋
+## ¡Hola! Soy Vanessa 👋
+Soy una desarrolladora en ciernes con una pasión por aprender y crear soluciones innovadoras. Actualmente, estoy sumergiéndome en el mundo del desarrollo web y la programación, y me emociona compartir mi viaje y proyectos en GitHub.
 
-<!--
-**vguerras/vguerras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mí
+- 🎓 Estoy aprendiendo HTML, CSS, JavaScript y Python.
+- 🌱 En estos momentos, me estoy enfocando en mejorar mis habilidades en desarrollo front-end.
+- 👯 Estoy buscando colaborar en proyectos interesantes y desafiantes.
+- 💬 Pregúntame sobre temas de desarrollo web y programación.
+- 📫 Puedes contactarme en [tu correo electrónico o redes sociales].
+- 🌟 Fun fact: Me encanta el café y el ciclismo.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mis Objetivos
+- Convertirme en una desarrolladora full-stack competente.
+- Contribuir a proyectos de código abierto.
+- Crear aplicaciones y sitios web que sean útiles y accesibles para todos.
